@@ -5,3 +5,8 @@
 .lead {
   color: var(--suraido-muted);
 }
+
+.center-text {
+  width: 100%;
+  text-align: center;
+}
